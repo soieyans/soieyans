@@ -1,15 +1,12 @@
-*핏플(FITple)로 옷 등록부터 비슷한 사용자 추천, 사이즈 비교까지 한 번에,*
+<img src="https://github.com/user-attachments/assets/4e716455-0178-449f-8ed2-1d097c2e990e" width="1000" height="300"/>
 
-#### 나에게 딱 맞는 사이즈와 핏을 손쉽게 기록하고 관리해요!
 
-핏플(FITple)은 가장 잘 맞았던 사이즈 정보를 손쉽게 기록·관리할 수 있는 서비스입니다. 유사한 체형과 스타일을 가진 사용자들의 추천과 즐겨찾기, 사이즈 비교 기능을 통해 사용자들이 옷을 구매할 때 겪는 사이즈 선택의 고민과 시간을 줄여줄 수 있습니다.  
-  <br/>
-  <br/>
-  
 ## UMC 6th Project
 - 프로젝트 이름 : 핏플(FITple)
 - 개발 기간 : 2024.06~2024.08
+
 - 개발 언어 : 
+
 - 멤버
   
 <img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|5|6|7|<img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|<img src="https://url/image.png" width="50" height="50"/>|
@@ -18,6 +15,18 @@
 <br/>
 <br/>
 
+## Overview
+<img src="https://github.com/user-attachments/assets/58079ebd-7428-4fb0-9211-75c568600e48" width="100" height="100"/>  
+
+*핏플(FITple)로 옷 등록부터 비슷한 사용자 추천, 사이즈 비교까지 한 번에,*
+
+
+#### 나에게 딱 맞는 사이즈와 핏을 손쉽게 기록하고 관리해요!
+
+핏플(FITple)은 가장 잘 맞았던 사이즈 정보를 손쉽게 기록·관리할 수 있는 서비스입니다. 유사한 체형과 스타일을 가진 사용자들의 추천과 즐겨찾기, 사이즈 비교 기능을 통해 사용자들이 옷을 구매할 때 겪는 사이즈 선택의 고민과 시간을 줄여줄 수 있습니다.  
+  <br/>
+  <br/>
+ 
 ## problem&solution
 
 - 브랜드마다 사이즈 별로 실측 사이즈가 달라서 적절한 사이즈를 고르는 게 어려워요 → 사이즈 비교 기능을 통해 이전에 구매했던 옷 중 잘 맞았던 제품과 새로 구매할 제품의 사이즈 정보를 비교하여 최적의 사이즈를 찾을 수 있습니다
