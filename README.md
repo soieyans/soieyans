@@ -3,21 +3,28 @@
 
 ## UMC 6th Project
 - 프로젝트 이름 : 핏플(FITple)
-- 개발 기간 : 2024.06~2024.08![Uploading 장준혁.jpeg…]()
-
+- 개발 기간 : 2024.06~2024.08
 - 개발 언어 :
-
 - 멤버
-
   
-<img src="https://github.com/user-attachments/assets/535b6b15-f26e-4586-8c40-57f6c48c34f6" width="400" height="100"/>|<img src="" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/ac1c3cda-60ce-4295-b929-3dfcd538bc0c" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/fc75e86e-0426-40a0-87db-dc094e95ede7" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/98999fbf-a6e7-4394-acb3-8b16a2aedf2b" width="200" height="200"/>|<img src="" width="200" height="200"/>|<img src="" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/59aa2dd6-c805-43d6-aab9-e8738313ea82" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/859cf5ce-773f-417c-9bb6-f0500c425c45" width="200" height="200"/>|<img src="" width="200" height="200"/>|<img src="" width="200" height="200"/>|
------------|--------|---|---|---|---|---|---|---|---|---
-전소연(PM)|양예원(Design)|장세연(Web)|임동연(Web)|강수영(Web)|장준혁(Web)|전규민(Web)|신예진(Server)|이서연(Server)|이재욱(Server)|최건(Server)
+<img src="https://github.com/user-attachments/assets/535b6b15-f26e-4586-8c40-57f6c48c34f6" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/c24e3946-ba98-4ef7-b3e6-dd52d225bfa2" width="200" height="200"/>|
+---|---
+전소연(PM)  |양예원(Design)
+
+<img src="https://github.com/user-attachments/assets/ac1c3cda-60ce-4295-b929-3dfcd538bc0c" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/fc75e86e-0426-40a0-87db-dc094e95ede7" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/98999fbf-a6e7-4394-acb3-8b16a2aedf2b" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/886eeee7-971e-496a-bc6d-8d39a526600d" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/39586777-b6a7-429e-a08d-cb3fbf04ab80" width="200" height="200"/>|
+---|---|---|---|---
+장세연(Web)|임동연(Web)|강수영(Web)|장준혁(Web)|전규민(Web)
+
+
+<img src="https://github.com/user-attachments/assets/59aa2dd6-c805-43d6-aab9-e8738313ea82" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/859cf5ce-773f-417c-9bb6-f0500c425c45" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/0dbfa378-8d4d-4fee-b943-30f687041358" width="200" height="200"/>|<img src="https://github.com/user-attachments/assets/cc0e62b0-2c43-4fe6-806d-f4f8d8a44d93" width="200" height="200"/>|
+---|---|---|---
+신예진(Server)|이서연(Server)|이재욱(Server)|최건(Server)
+
 <br/>
 <br/>
 
 ## Overview
-<img src="https://github.com/user-attachments/assets/58079ebd-7428-4fb0-9211-75c568600e48" width="100" height="100"/>  
+<img src="https://github.com/user-attachments/assets/58079ebd-7428-4fb0-9211-75c568600e48" width="100" height="100"/>   
 
 *핏플(FITple)로 옷 등록부터 비슷한 사용자 추천, 사이즈 비교까지 한 번에,*
 
