@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/4e716455-0178-449f-8ed2-1d097c2e990e" width="810" height="270"/>
 
 
+
 ## UMC 6th Project
 - 프로젝트 이름 : 핏플(FITple)
 - 개발 기간 : 2024.06~2024.08
@@ -34,12 +35,12 @@
 핏플(FITple)은 가장 잘 맞았던 사이즈 정보를 손쉽게 기록·관리할 수 있는 서비스입니다. 유사한 체형과 스타일을 가진 사용자들의 추천과 즐겨찾기, 사이즈 비교 기능을 통해 사용자들이 옷을 구매할 때 겪는 사이즈 선택의 고민과 시간을 줄여줄 수 있습니다.  
   <br/>
   <br/>
- 
+
 ## problem&solution
-<img src="https://github.com/user-attachments/assets/28c28493-20e4-4661-8c9b-fab7d369e02f"/>
+<img src="https://github.com/user-attachments/assets/4ba707ec-4864-4772-a637-f5295725ea26"/>
 <br/>
+
 <br/>
- 
 
 ## MVP(핵심기능)
 |<img src="https://github.com/user-attachments/assets/536014ee-d171-4a73-92a9-3e3fb3ae585e" width="180" height="280"/>|
